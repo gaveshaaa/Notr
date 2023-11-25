@@ -2,7 +2,11 @@
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
+```
 Notr is a note-taking application built with Electron and JavaScript that supports Markdown for easy text formatting.
+```
+
+<img src="https://github.com/gaveshaaa/Notr/blob/f86eab36889e8c6f0757e7a25c5e675d11ddb826/preview.jpg">
 
 ## Features
 
