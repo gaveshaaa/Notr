@@ -26,9 +26,9 @@ Download the latest release from the [Releases](https://link-to-your-releases-pa
 
 ## Usage
 
-- Create a new note by clicking the "New Note" button.
+- Create a new note by using keybind Ctrl + O
 - Edit notes using the Markdown editor.
-- Save and manage your notes effortlessly.
+- Save a note by using Ctrl + S
 
 ## Contributing
 Contributions are welcome! Feel free to open issues or submit pull requests.
